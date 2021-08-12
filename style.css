@@ -52,8 +52,12 @@
 }
 #subscribe h6{
     color: gray;
+    
 }
 
 footer{
     text-align: center;
+}
+#pad{
+    margin-top: 5px;
 }
